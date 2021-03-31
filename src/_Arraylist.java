@@ -9,6 +9,8 @@ public class _Arraylist {
 
 		System.out.println("Hiiii");
 		System.out.println("Hiiii");
+		System.out.println("Hiiii");
+		System.out.println("Hiiii");
 		
 		al.add(100);
 		al.add("abc");
