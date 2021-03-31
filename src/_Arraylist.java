@@ -7,6 +7,8 @@ public class _Arraylist {
 		ArrayList al = new ArrayList();
 		ArrayList al1 = new ArrayList();
 
+		System.out.println("Hiiii");
+		
 		al.add(100);
 		al.add("abc");
 		al.add('C');
